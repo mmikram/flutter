@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started with Bloc, get_it, Retrofit, auto_route and freezed packages and Clean Architecure
+## Getting Started with Bloc, get_it, Retrofit, auto_route and freezed packages and Clean architecture
 
 This project is a starting point for a Flutter application .
 
