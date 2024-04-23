@@ -1,10 +1,10 @@
-# ocr_ovd_mobile
+# Flutter sample news application
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started with Bloc, get_it, Retrofit, auto_route and freezed packages
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application .
 
 A few resources to get you started if this is your first Flutter project:
 
