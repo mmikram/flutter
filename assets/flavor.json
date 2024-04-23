@@ -1,0 +1,22 @@
+{
+  "dev": {
+    "baseUrl": "",
+    "appId": "",
+    "publicRSA": "",
+    "publicRSALogin": ""
+
+  },
+  "uat": {
+    "baseUrl": "https://newsapi.org/v2",
+    "appId": "12",
+    "publicRSA": "",
+    "publicRSALogin": ""
+
+  },
+  "prod": {
+    "baseUrl": "",
+    "appId": "",
+    "publicRSA": "",
+    "publicRSALogin": ""
+  }
+}
